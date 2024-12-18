@@ -1,12 +1,5 @@
 # Weather App 🌤️
 
-## View the Project  
-
-You can view the live project by clicking on the following link:  
-[Weather App](https://nicolatantera.github.io/weather-app/)
-
----
-
 This is a **Weather App** built using **React**, **TypeScript**, and **Node.js**. The app allows users to search for a city and displays the current weather information, including:
 
 - **Temperature** 🌡️  
@@ -32,3 +25,8 @@ The weather data is fetched from the [OpenWeatherMap API](https://openweathermap
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
 
 ---
+
+## View the Project  
+
+You can view the live project by clicking on the following link:  
+[Weather App](https://nicolatantera.github.io/weather-app/)
