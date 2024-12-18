@@ -70,7 +70,7 @@ export default function WeatherApp() {
     const fetchDefaultWeather = async () => {
       setLoading(true);
       const defaultLocation = "Milan";
-      const url: string = `${import.meta.env.VITE_BACKEND}/api/data`;
+      const url = "https://abundant-common-megaraptor.glitch.me/api/data";
 
       try {
         const res = await fetch(url, {
@@ -102,7 +102,7 @@ export default function WeatherApp() {
 
   async function search() {
     if (location.trim() !== "") {
-      const url: string = `${import.meta.env.VITE_BACKEND}/api/data`;
+      const url: string = "https://abundant-common-megaraptor.glitch.me/api/data";
 
       try {
         const res = await fetch(url, {
