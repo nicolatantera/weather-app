@@ -1,7 +1,5 @@
 # Weather App 🌤️
 
----
-
 ## View the Project  
 
 You can view the live project by clicking on the following link:  
